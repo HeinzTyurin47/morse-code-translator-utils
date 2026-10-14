@@ -1,0 +1,17 @@
+{
+  "name": "morse-code-translator-utils",
+  "version": "0.1.0",
+  "description": "Converts text to International Morse Code and back into text.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
